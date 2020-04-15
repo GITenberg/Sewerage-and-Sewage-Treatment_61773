@@ -1,0 +1,27 @@
+_repo: Sewerage-and-Sewage-Treatment_61773
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Babbitt, Harold E. (Harold Eaton)
+    alias: Babbitt, Harold Eaton
+    birthdate: 1888
+    deathdate: 1970
+    gutenberg_agent_id: '51605'
+    url: http://www.gutenberg.org/2009/agents/51605
+description: ''
+gutenberg_issued: '2020-04-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61773'
+  lccn: '22002038'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TD'
+- !lcsh 'Sewage disposal'
+- !lcsh 'Sewerage'
+- GITenberg
+title: Sewerage and Sewage Treatment
+url: http://www.gutenberg.org/ebooks/61773
